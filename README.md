@@ -7,7 +7,7 @@
 
 `pip install requests`
 
-`git clone https://github.com/MrProCatYT/Uti-lite.git`
+`git clone https://github.com/avertv/Uti-lite.git`
 # Запуск
 `cd Uti-lite`
 
